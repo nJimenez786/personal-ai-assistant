@@ -1,0 +1,5 @@
+[project]
+name = "personal-ai-assistant"
+version = "0.1.0"
+description = "Your personal AI assistant powered by multiple AI agents. Connects to WhatsApp, Slack, or Telegram to manage your emails, schedule, to-dos, messages, and daily research."
+requires-python = ">=3.10"
